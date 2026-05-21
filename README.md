@@ -1,2 +1,9 @@
-# deloitte-technology-job-simulation
-Completed Deloitte Technology Job Simulation through Forage, including Python-based telemetry data conversion and software development proposal tasks. Demonstrates skills in Python, JSON processing, problem-solving, and dashboard system design.
+Completed Deloitte Technology Job Simulation through Forage.
+
+Tasks completed:
+- Telemetry data conversion using Python
+- Software development proposal creation
+- Dashboard system understanding
+
+Skills:
+Python, JSON Handling, Problem Solving, Software Development
